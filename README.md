@@ -46,7 +46,7 @@
 ## 📂 目录结构
 
 ```
-LangChain-v1.0-demo/
+LangChain-v1.0-/
 ├── 01-LangChain核心能力/              # 模型接口、消息、工具、MCP、中间件、智能体
 │   ├── 使用ChatGPT/                   # ChatGPT 模型调用示例
 │   ├── 使用DeepSeek/                  # DeepSeek 模型调用示例
